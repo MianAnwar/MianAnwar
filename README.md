@@ -1,12 +1,6 @@
 ----------------------------------------
 MianAnwar, Hello World!! 👋
 ----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
- 
               
 - 🔭 I’m currently working on **Angular, ASP.NET CORE and FLUTTER**
 - 🌱 I’m currently learning **Web 3.0 with Eth Blockchain (basic building block is Smart Contracts ❤)**
