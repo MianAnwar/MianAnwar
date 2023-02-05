@@ -2,7 +2,7 @@
 MianAnwar, Hello World!! 👋
 ----------------------------------------
               
-- 🔭 I’m currently working on **Angular, ASP.NET CORE and FLUTTER**
+- 🔭 I’m currently working on **Angular, Next.js, ASP.NET CORE and FLUTTER**
 - 🌱 I’m currently learning **Web 3.0 with Eth Blockchain (basic building block is Smart Contracts ❤)**
 - 👯 I’m looking to collaborate on **Web 3.0**
 - 🤔 I’m looking for help with **Smart Contracts collection chainset**
